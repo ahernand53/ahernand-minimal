@@ -136,7 +136,7 @@ button {
 
 .link--icon {
   color: var(--clr-fg);
-  font-size: 1.2rem;
+  font-size: 2rem;
 }
 
 .btn {
@@ -187,6 +187,8 @@ button {
 
 .btn--plain:hover {
   transform: translateY(-4px);
+  background-color: var(--clr-primary);
+  color: var(--clr-bg-alt)
 }
 
 .btn--icon {
@@ -324,7 +326,7 @@ main {
 }
 
 .skills__list {
-  max-width: 450px;
+  max-width: 600px;
   width: 95%;
   margin: 0 auto;
   display: flex;
@@ -338,6 +340,19 @@ main {
 
 .contact {
   flex-direction: column;
+}
+
+.contact__type {
+  max-width: 600px;
+  width: 95%;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.contact__type-item {
+  margin: 0.5em;
 }
 
 .footer {
