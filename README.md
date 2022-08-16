@@ -1,13 +1,35 @@
-# Cleanfolio Minimal
+### Hi there, I'm Asdrubal :colombia: 👋
 
-A clean and simple portfolio template built with plain HTML, CSS and JavaScript.
+<!--
+**ahernand53/ahernand53** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-## Preview
+-->
 
-[![imgur](https://i.imgur.com/5z7cvMz.gif)](https://rajshekhar26.github.io/cleanfolio-minimal)
+Thanks for checking my profile, I'm Currently working and learning on a new tecnology.
 
-[See Live](https://rajshekhar26.github.io/cleanfolio-minimal)
+## :muscle: Skills
 
-## License
+### Coding
 
-[MIT](https://choosealicense.com/licenses/mit/)
+ > - PHP `laravel`
+ > - Javascript `Vue.js`
+ > - TypeScript `Angular, Nest.js`
+ > - Node.js `Express`
+ > - Java `Spring `
+ > - C# `.NET Core`
+
+### Database
+
+ > - Mysql
+ > - Postgres
+ > - MongoDB
+ > - Sql Server
+ > - Oracle
+ > - Firebase
+ 
+### Tools
+
+ > - Firebase
+ > - Docker
+ > - Github CLI
+ > - Heroku
